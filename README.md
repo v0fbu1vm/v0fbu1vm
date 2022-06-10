@@ -1,7 +1,7 @@
 ### Hi there 👋
 ☆*: .｡. o(≧▽≦)o .｡.:*☆
 
-> I tend to talk to myself, when I need expert advice.
+> 🔥 I tend to talk to myself, when I need expert advice.
 <!--
 **WaadSulaiman/WaadSulaiman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
