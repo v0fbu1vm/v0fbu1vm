@@ -1,22 +1,19 @@
 ### Hi there 👋
-☆*: .｡. o(≧▽≦)o .｡.:*☆
 
-> 🔥 I tend to talk to myself, when I need expert advice.
-<!--
-**WaadSulaiman/WaadSulaiman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Motivated and enthusiastic person. Proven knowledgeable in achieving good results and with excellent collaboration skills. Constructive and driven. I'm a Full Stack Developer and a part time business owner. Apart from that I love working out and learning about the universe.
 
-Here are some ideas to get you started:
+<details align="Left" open>
+    <summary> <b> <samp>🔨 Current projects </samp></b></summary>
+  <p>
+    <a style="text-decoration: none" align="left" href="https://github.com/WaadSulaiman/SocialMedia.Api">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=waadsulaiman&repo=SocialMedia.Api&show_owner=true&theme=dark" />
+    </a>
+    <a style="text-decoration: none" align="left" href="https://github.com/WaadSulaiman/Todo.Api">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=waadsulaiman&repo=Todo.Api&show_owner=true&theme=dark" />
+    </a>
+  </p>
+</details>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![WaadSulaiman's GitHub stats](https://github-readme-stats.vercel.app/api?username=waadsulaiman&count_private=true&show_icons=true&theme=dark)
 
-![WaadSulaiman's GitHub stats](https://github-readme-stats.vercel.app/api?username=waadsulaiman&count_private=true&show_icons=true&theme=shades-of-purple)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waadsulaiman&layout=compactshow_icons=true&theme=shades-of-purple)](https://github.com/waadsulaiman/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waadsulaiman&layout=compact&show_icons=true&theme=dark)](https://github.com/waadsulaiman/github-readme-stats)
