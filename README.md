@@ -1,4 +1,4 @@
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--5SXqnWZ2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/2ciu6mo6r9x9zyverc10.gif" width="100%" height="auto"/>
+<img src="https://camo.githubusercontent.com/1f6a50e6d8ad5f4d0c53c09d7d56110305bb45813610f6a92599e4598520bcf3/68747470733a2f2f692e696d6775722e636f6d2f467853536d66502e706e67" width="100%" height="auto"/>
 
 <br/>
 
