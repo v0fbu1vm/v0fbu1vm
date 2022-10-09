@@ -30,17 +30,19 @@ Hi 👋, I am **Waad Sulaiman** a motivated and enthusiastic person. Proven know
 ## 🔥 Github Stats
 <img align="right" width="38%" src="https://c.tenor.com/v50sh2He1AAAAAAj/rickroll-rick.gif"/>
 
-  <a href="https://github.com/WaadSulaiman"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=WaadSulaiman&theme=radical&title_color=ff3068"></a>
-  <a href="https://github.com/WaadSulaiman"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=WaadSulaiman&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
+<a href="https://github.com/WaadSulaiman"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=WaadSulaiman&theme=radical&title_color=ff3068"></a>
+<a href="https://github.com/WaadSulaiman"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WaadSulaiman&layout=compact&theme=radical&title_color=ff3068"></a>
+<a href="https://github.com/WaadSulaiman"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=WaadSulaiman&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
 
 ## 📘 My top projects
 
 <p align="left">
  <a href="https://github.com/WaadSulaiman/SocialMedia.Api"><img width="30%" height src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=WaadSulaiman&repo=SocialMedia.Api&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="SocialMedia.Api"></a>
+  <a href="https://github.com/WaadSulaiman/GodBot"><img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=WaadSulaiman&repo=GodBot&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="GodBot"></a>
  <a href="https://github.com/WaadSulaiman/Todo.Api"><img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=WaadSulaiman&repo=Todo.Api&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="Todo.Api"></a>
- <a href="https://github.com/WaadSulaiman/GodBot"><img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=WaadSulaiman&repo=GodBot&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="GodBot"></a>
+ <a href="https://github.com/sonarwave/sonarwave"><img width="30%" height src="https://github-readme-stats.vercel.app/api/pin/?username=sonarwave&repo=sonarwave&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="sonarwave"></a>
+ <a href="https://github.com/sonarwave/sonarwave-server"><img width="30%" height src="https://github-readme-stats.vercel.app/api/pin/?username=sonarwave&repo=sonarwave-server&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="sonarwave-server"></a>
 </p>
-
 <p align="center">
   <a href="https://github.com/WaadSulaiman?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
   <a href="https://github.com/WaadSulaiman?tab=repositories">
