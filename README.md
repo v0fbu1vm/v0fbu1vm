@@ -1,31 +1,6 @@
 <img src="https://media.tenor.com/Dc8nFwst79AAAAAi/kek-angry.gif" width="100%" height="auto"/>
 
 <br/>
-
-<p>
-  
-Hi 👋, I am **Waad Sulaiman** a motivated and enthusiastic person. Proven knowledgeable in achieving good results and with excellent collaboration skills. Constructive and driven. I'm a Full Stack Developer and a part time business owner. Apart from that I love working out and learning about the universe.✨
-
-<div>
-<details>
-  <summary>🧑 More about me</summary>
-
-- 🔭 I’m currently on a journey to build **great** things
-
-- 🌱 I’m currently learning **everything** 🤓
-
-- 🤝 I’m looking for help with **finding projects to contribute to!**
-
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/v0fbu1vm)
-
-- 💬 Ask me about **anything**
-
-- 📫 Reach me out at **...**
-
-</details>
-  
-</p>
-  
   
 ## 🔥 Github Stats
 <img align="right" width="38%" src="https://c.tenor.com/v50sh2He1AAAAAAj/rickroll-rick.gif"/>
